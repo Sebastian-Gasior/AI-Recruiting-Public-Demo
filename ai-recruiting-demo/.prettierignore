@@ -1,0 +1,33 @@
+# Dependencies
+node_modules
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+dist
+build
+.vite
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config files (if needed)
+*.min.js
+*.min.css
+

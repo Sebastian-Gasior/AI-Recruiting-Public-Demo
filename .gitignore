@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Flask
+instance/
+.webassets-cache
+
+# Dokumentation
+docs/  
+.bmad/
+_bmad-output/
+_bmad/
+.cursor/
+
+# Environment & Secrets
+.env
+.env.local
+
+# Uploads & Temporary Files
+uploads/
+# *.pdf
+
+# Logs
+*.log
+app.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build & Distribution
+build/
+dist/
+*.egg-info/
+
+# Sonstiges
+
