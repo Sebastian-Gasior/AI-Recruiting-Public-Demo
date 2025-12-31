@@ -14,6 +14,20 @@ Ein vollständig im Browser laufender Recruiting-Assistant, der Jobsuchende bei 
 - ✅ **Profile Management** - Speichern, Laden, Exportieren und Importieren von Profilen
 - ✅ **100% Lokale Verarbeitung** - Keine Datenübertragung, vollständige Privatsphäre
 
+## 📸 Projekt Bilder
+
+![AI-Recruiting-Eingabemaskeo](Bilder/00-AI-Eingabemaske.jpg)
+
+
+**Eingabemaske**
+
+![AI-Recruiting-Auswertung](Bilder/01-AI-Auswertung.jpg)
+
+
+**Auswertung**
+
+---
+
 ## 🚀 Schnellstart
 
 ### Voraussetzungen
